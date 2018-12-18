@@ -1,0 +1,14 @@
+body
+{
+  text-align: center;
+  font-size: 20px;
+  font-style: helvetica;
+}
+footer {
+	background-color: black;
+	clear: left ;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+  text-align: center;
+  color: white;
+}
